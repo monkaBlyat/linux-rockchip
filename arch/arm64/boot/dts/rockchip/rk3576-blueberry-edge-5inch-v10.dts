@@ -17,6 +17,8 @@
 #include "rk3576-blueberry-edge-rk628-hdmi2csi.dtsi"
 #include "rk3576-blueberry-edge-imx415-dcphy0.dtsi"
 #include "rk3576-linux.dtsi"
+#include "rk3576.dtsi"
+
 
 / {
 	model = "Blueberry RK3576 EDGE V10 Board";
